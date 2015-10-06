@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/mzabriskie/react-disqus-thread",
   "peerDependencies": {
-    "react": "^0.13.3"
+    "react": "^0.13.1"
   },
   "devDependencies": {
     "jsx-loader": "^0.13.2",
@@ -39,7 +39,7 @@
     "karma-firefox-launcher": "^0.1.6",
     "karma-jasmine": "^0.3.5",
     "karma-webpack": "^1.5.1",
-    "react": "^0.13.3",
+    "react": "^0.13.1",
     "reactify": "^1.1.1",
     "uglify-js": "^2.4.23",
     "webpack": "^1.9.10",
